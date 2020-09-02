@@ -1,2 +1,2 @@
 # hello-world
-learning github
+learning python and github
